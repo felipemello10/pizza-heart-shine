@@ -5,6 +5,7 @@ import pizzaFriarielli from "@/assets/pizza-friarielli.jpg";
 import pizzaMargherita from "@/assets/pizza-margherita.jpg";
 import ambiente from "@/assets/ambiente.jpg";
 import { Star, MapPin, Phone, Clock, Heart, Instagram } from "lucide-react";
+import { WhatsAppButton } from "@/components/WhatsAppButton";
 
 export const Route = createFileRoute("/")({
   head: () => ({
@@ -342,6 +343,8 @@ function Index() {
           </a>
         </div>
       </footer>
+
+      <WhatsAppButton />
     </div>
   );
 }
