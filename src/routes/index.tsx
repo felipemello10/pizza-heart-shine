@@ -135,8 +135,6 @@ function Index() {
               </div>
               <span><strong className="text-cream">4,8</strong> · 365 avaliações no Google</span>
             </div>
-            <span className="hidden sm:block w-px h-4 bg-cream/20" />
-            <span className="flex items-center gap-2"><Heart className="size-4 text-accent" /> Acolhe a comunidade LGBTQ+</span>
           </div>
         </div>
       </section>
@@ -317,13 +315,6 @@ function Index() {
               <div>
                 <div className="font-display text-xl text-cream">(11) 91027-1967</div>
                 <div className="text-sm">WhatsApp e ligação</div>
-              </div>
-            </div>
-            <div className="flex gap-4">
-              <Heart className="size-5 text-accent shrink-0 mt-1" />
-              <div>
-                <div className="font-display text-xl text-cream">Espaço acolhedor</div>
-                <div className="text-sm">Empresa que acolhe a comunidade LGBTQ+</div>
               </div>
             </div>
           </div>
