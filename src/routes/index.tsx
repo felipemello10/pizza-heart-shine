@@ -317,6 +317,22 @@ function Index() {
                 <div className="text-sm">WhatsApp e ligação</div>
               </div>
             </div>
+
+            <a
+              href="https://www.google.com/maps/place/Pizza+Mercutio/@-23.5373,-46.6829,17z"
+              target="_blank"
+              rel="noreferrer"
+              className="block mt-4 overflow-hidden rounded-sm border border-cream/15 aspect-[4/3] group"
+              aria-label="Abrir Pizza Mercutio no Google Maps"
+            >
+              <iframe
+                title="Mapa Pizza Mercutio"
+                src="https://www.google.com/maps?q=Pizza+Mercutio+R.+Diana+613+Perdizes+S%C3%A3o+Paulo&output=embed"
+                loading="lazy"
+                referrerPolicy="no-referrer-when-downgrade"
+                className="w-full h-full border-0 grayscale contrast-110 transition duration-500 group-hover:grayscale-0 pointer-events-none"
+              />
+            </a>
           </div>
         </div>
       </section>
