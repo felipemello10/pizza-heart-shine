@@ -79,7 +79,7 @@ function Index() {
           <nav className="hidden md:flex items-center gap-8 text-sm text-cream/90">
             <a href="#cardapio" className="hover:text-accent transition">Cardápio</a>
             <a href="#historia" className="hover:text-accent transition">História</a>
-            <a href="#vozes" className="hover:text-accent transition">Vozes</a>
+            <a href="#avaliacoes" className="hover:text-accent transition">Avaliações</a>
             <a href="#visite" className="hover:text-accent transition">Visite</a>
           </nav>
           <a
