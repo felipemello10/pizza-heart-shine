@@ -327,7 +327,8 @@ function Index() {
             >
               <iframe
                 title="Mapa Pizza Mercutio"
-                src="https://www.google.com/maps?q=Pizza+Mercutio+R.+Diana+613+Perdizes+S%C3%A3o+Paulo&output=embed"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.963497498823!2d-46.68412802391506!3d-23.53381526058232!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5717ab4d0fef%3A0xa36510d03bb826d1!2sPizza%20Mercutio!5e0!3m2!1spt-BR!2sbr!4v1778458747638!5m2!1spt-BR!2sbr"
+                allowFullScreen
                 loading="lazy"
                 referrerPolicy="no-referrer-when-downgrade"
                 className="w-full h-full border-0 grayscale contrast-110 transition duration-500 group-hover:grayscale-0 pointer-events-none"
