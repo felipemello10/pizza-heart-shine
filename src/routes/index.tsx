@@ -319,7 +319,7 @@ function Index() {
             </div>
 
             <a
-              href="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.9633607484197!2d-46.68412802467073!3d-23.533820178818658!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5717ab4d0fef%3A0xa36510d03bb826d1!2sPizza%20Mercutio!5e0!3m2!1spt-BR!2sbr!4v1778459587492!5m2!1spt-BR!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+              href="https://maps.app.goo.gl/BP3YtaxY3nY3YN8V7"
               target="_blank"
               rel="noreferrer"
               className="block mt-4 overflow-hidden rounded-sm border border-cream/15 aspect-[4/3] group"
@@ -327,7 +327,7 @@ function Index() {
             >
               <iframe
                 title="Mapa Pizza Mercutio"
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.9633607484197!2d-46.68412802467073!3d-23.533820178818658!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5717ab4d0fef%3A0xa36510d03bb826d1!2sPizza%20Mercutio!5e0!3m2!1spt-BR!2sbr!4v1778459587492!5m2!1spt-BR!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.9633607484197!2d-46.68412802467073!3d-23.533820178818658!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5717ab4d0fef%3A0xa36510d03bb826d1!2sPizza%20Mercutio!5e0!3m2!1spt-BR!2sbr!4v1778460899213!5m2!1spt-BR!2sbr"
                 allowFullScreen
                 loading="lazy"
                 referrerPolicy="no-referrer-when-downgrade"
