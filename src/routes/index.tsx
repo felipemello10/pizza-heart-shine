@@ -346,7 +346,7 @@ function Index() {
             <span className="font-script text-accent">·dal 2014</span>
           </div>
           <div className="text-xs">© {new Date().getFullYear()} Pizza Mercutio · Feito com massa, fogo e afeto.</div>
-          <a href="#" className="flex items-center gap-2 text-sm hover:text-accent transition">
+          <a href="https://www.instagram.com/pizzamercutio" target="_blank" rel="noreferrer" className="flex items-center gap-2 text-sm hover:text-accent transition">
             <Instagram className="size-4" /> @pizzamercutio
           </a>
         </div>
