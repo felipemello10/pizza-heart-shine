@@ -339,7 +339,7 @@ function Index() {
       </section>
 
       {/* FOOTER */}
-      <footer className="bg-ink text-cream/70 py-12">
+      <footer className="bg-ink text-cream/70 py-12 pb-24 md:pb-28">
         <div className="mx-auto max-w-7xl px-6 flex flex-col md:flex-row items-center justify-between gap-6">
           <div className="flex items-baseline gap-2">
             <span className="font-display text-2xl text-cream">Mercutio</span>
