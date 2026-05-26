@@ -108,7 +108,7 @@ function Index() {
             <br /> a Napoli.<span className="text-accent">.</span>
           </h1>
           <p className="mt-8 max-w-xl text-lg text-cream/80 font-light">
-            Massa de longa fermentação, ingredientes selecionados e o calor de uma
+            Massa de longa fermentação com farinha italiana 00, ingredientes selecionados e o calor de uma
             pizzaria de bairro. Há mais de uma década na Rua Diana.
           </p>
           <div className="mt-10 flex flex-wrap items-center gap-4">
